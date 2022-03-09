@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.0",
+    "excel4node": "^1.7.2",
+    "puppeteer": "^13.3.0"
+  }
+}
